@@ -1,0 +1,22 @@
+{
+  "version": "1.1.4",
+  "sha256": {
+    "README.md": "387928f111d5ceabc771120807d48a7347dbd57809947992645e0e1cd0fc4a36",
+    "RivalsLauncher.exe": "fe075dfa7e4dd3d89ae0e7f3f22f810d98d9fd19f91c5531ff43b5e9501352e8",
+    "RivalsProfileBridge.dll": "3e6514b9724a084cdd0f029f3537a6085a922bb475f28ac6c366e84f371aea3c",
+    "THIRD-PARTY-NOTICES.md": "c3a5d8612f4d0de7211f6e79a814ea7f41f66de483b7e2683bb21d0d317e090b",
+    "licenses/MinHook-LICENSE.txt": "4f21f857550d7be854da6ea5f2da4e6775ca4e3fbb535e4f3d961c47d0bf3335",
+    "licenses/TurboRivals-LICENSE.txt": "21fec0ac752f79f98f21e537d7b6ad28f9647acda01a83ca8714ebc639b819b1",
+    "reference-service/pair_join.py": "8973ae47fe82a3d32679eb319bfbe0c134a715e6f957de8608aba6856f602a2b",
+    "reference-service/reference_service.py": "71c6dc60f4d26405aaf79d6c32b31eb9c68d133a3491f91a6cac4f9337fff62f",
+    "reference-service/turborivals_reference/LICENSE": "71156db2069add9547085c868a26798520c71055614c6b9e0585c131d9f742d1",
+    "reference-service/turborivals_reference/SOURCE.json": "0a544f32cc92728038ae9165e58b34b9c66c139edc234e59a1855fc1e6fd27c4",
+    "reference-service/turborivals_reference/blaze.py": "0781ee1dc69a6059a5a001680e8ab89ea72b127a40d2fd552493fda348306664",
+    "reference-service/turborivals_reference/ea_identity.py": "65094b3b48102854b3fe9edd7114ccd26b3d1a759d54d7be484a094fe69030ea",
+    "reference-service/turborivals_reference/lobby.py": "5a14e0a65922723ac916bc9f8115f7fb41c57528e674b19a1b86cb119633c7bd",
+    "reference-service/turborivals_reference/make_stub_cert.py": "4379606f3f957cd637b6b188d998781fd36415ca9f3abe8209c2e26b927fc7e2",
+    "reference-service/turborivals_reference/player_store.py": "4beb4bcf80cd61e2468708eb82dea9195fbc12b370beb183cc1c8047c68fc895",
+    "reference-service/turborivals_reference/tcp_proxy.py": "36acb64fd05dcf8b0e588f86a0fd0646a9cc8d0a59073b0775ff902ff15959dd",
+    "reference-service/turborivals_reference/tls_terminator.py": "5ea6cbff681f1df2dcf12cb3d90529eea0e363ab08cbb6085cbf9ef15fd633a1"
+  }
+}
