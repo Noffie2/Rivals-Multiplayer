@@ -1,0 +1,14 @@
+{
+  "repository": "https://github.com/Turbotoster7/TurboRivals",
+  "revision": "e12fb73b11c1a27fa3a8c682db283608087f534a",
+  "files": {
+    "LICENSE": "71156db2069add9547085c868a26798520c71055614c6b9e0585c131d9f742d1",
+    "blaze.py": "0781ee1dc69a6059a5a001680e8ab89ea72b127a40d2fd552493fda348306664",
+    "ea_identity.py": "65094b3b48102854b3fe9edd7114ccd26b3d1a759d54d7be484a094fe69030ea",
+    "lobby.py": "5a14e0a65922723ac916bc9f8115f7fb41c57528e674b19a1b86cb119633c7bd",
+    "make_stub_cert.py": "4379606f3f957cd637b6b188d998781fd36415ca9f3abe8209c2e26b927fc7e2",
+    "player_store.py": "4beb4bcf80cd61e2468708eb82dea9195fbc12b370beb183cc1c8047c68fc895",
+    "tcp_proxy.py": "36acb64fd05dcf8b0e588f86a0fd0646a9cc8d0a59073b0775ff902ff15959dd",
+    "tls_terminator.py": "5ea6cbff681f1df2dcf12cb3d90529eea0e363ab08cbb6085cbf9ef15fd633a1"
+  }
+}
